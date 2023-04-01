@@ -41,6 +41,7 @@ export default function MyNavbar() {
                 width: 65%;
                 height: 2px;
                 float: right;
+                
             }
             */}
 
