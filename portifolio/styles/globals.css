@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "DirtyCrown";
+    src: url(../public/fonts/DirtyCrown.ttf);
+}
+
+*{
+    font-family: 'DirtyCrown';
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    height: 100vh;
+    background: url(../public/images/FUNDO.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
